@@ -7,9 +7,9 @@ import (
 )
 
 var rootCmd = &cobra.Command{
-	Use:   "terminal_chat",
+	Use:   "",
 	Short: "Your used to application to chat with chat GPT",
-	Long:  `Chat with Open AI from terminal need not to switch to browser to chat with GPT-3.`,
+	Long:  `Chat with AI model from terminal, you need not to switch to browser to search`,
 }
 
 func Execute() {

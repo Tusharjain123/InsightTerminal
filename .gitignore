@@ -1,0 +1,9 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+*.env
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
