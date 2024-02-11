@@ -7,7 +7,7 @@ import (
 )
 
 var rootCmd = &cobra.Command{
-	Use:   "",
+	Use:   "Insight Terminal",
 	Short: "Your used to application to chat with chat GPT",
 	Long:  `Chat with AI model from terminal, you need not to switch to browser to search`,
 }
