@@ -1,4 +1,4 @@
-module terminal_chat
+module it
 
 go 1.21.7
 
